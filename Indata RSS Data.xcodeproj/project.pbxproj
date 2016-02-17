@@ -12,6 +12,19 @@
 		3C8C294E1C6ABEBF006D31EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C8C294C1C6ABEBF006D31EB /* Main.storyboard */; };
 		3C8C29501C6ABEBF006D31EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C8C294F1C6ABEBF006D31EB /* Assets.xcassets */; };
 		3C8C29531C6ABEBF006D31EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C8C29511C6ABEBF006D31EB /* LaunchScreen.storyboard */; };
+		3C8C29991C70C27C006D31EB /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8C29981C70C27C006D31EB /* TableViewController.swift */; };
+		3C8C299B1C70C4DC006D31EB /* 01.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C8C299A1C70C4DC006D31EB /* 01.png */; };
+		3C8D375A1C7125E90094D92D /* UGM-default-user.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C8D37591C7125E90094D92D /* UGM-default-user.png */; };
+		3C8D375C1C712C930094D92D /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8D375B1C712C930094D92D /* TableViewCell.swift */; };
+		3C8D37601C715E250094D92D /* UserDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8D375F1C715E250094D92D /* UserDetailsViewController.swift */; };
+		3C8D37621C7203CA0094D92D /* StringExtensionHTML.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8D37611C7203CA0094D92D /* StringExtensionHTML.swift */; };
+		3C8D37641C72258E0094D92D /* email-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C8D37631C72258E0094D92D /* email-icon.png */; };
+		3C8D37661C7296EA0094D92D /* gray-background-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C8D37651C7296EA0094D92D /* gray-background-2.jpg */; };
+		3C8D37681C7297D10094D92D /* background-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C8D37671C7297D10094D92D /* background-2.jpg */; };
+		3C8D376A1C72992D0094D92D /* background-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3C8D37691C72992D0094D92D /* background-2.jpeg */; };
+		3C8D376C1C72D60F0094D92D /* ContactUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8D376B1C72D60F0094D92D /* ContactUsViewController.swift */; };
+		3CC003D91C72E9E000F9CBAE /* 60758.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CC003D81C72E9E000F9CBAE /* 60758.png */; };
+		3CC003DD1C73D4DC00F9CBAE /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CC003DC1C73D4DC00F9CBAE /* home.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		3C8C294F1C6ABEBF006D31EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C8C29521C6ABEBF006D31EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C8C29541C6ABEBF006D31EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C8C29981C70C27C006D31EB /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		3C8C299A1C70C4DC006D31EB /* 01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01.png; sourceTree = "<group>"; };
+		3C8D37591C7125E90094D92D /* UGM-default-user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UGM-default-user.png"; sourceTree = "<group>"; };
+		3C8D375B1C712C930094D92D /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		3C8D375F1C715E250094D92D /* UserDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserDetailsViewController.swift; sourceTree = "<group>"; };
+		3C8D37611C7203CA0094D92D /* StringExtensionHTML.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtensionHTML.swift; sourceTree = "<group>"; };
+		3C8D37631C72258E0094D92D /* email-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "email-icon.png"; sourceTree = "<group>"; };
+		3C8D37651C7296EA0094D92D /* gray-background-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gray-background-2.jpg"; sourceTree = "<group>"; };
+		3C8D37671C7297D10094D92D /* background-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background-2.jpg"; sourceTree = "<group>"; };
+		3C8D37691C72992D0094D92D /* background-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background-2.jpeg"; sourceTree = "<group>"; };
+		3C8D376B1C72D60F0094D92D /* ContactUsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactUsViewController.swift; sourceTree = "<group>"; };
+		3CC003D81C72E9E000F9CBAE /* 60758.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 60758.png; sourceTree = "<group>"; };
+		3CC003DC1C73D4DC00F9CBAE /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +82,22 @@
 			children = (
 				3C8C29481C6ABEBF006D31EB /* AppDelegate.swift */,
 				3C8C294A1C6ABEBF006D31EB /* ViewController.swift */,
+				3C8D375F1C715E250094D92D /* UserDetailsViewController.swift */,
+				3C8D37611C7203CA0094D92D /* StringExtensionHTML.swift */,
+				3C8C29981C70C27C006D31EB /* TableViewController.swift */,
+				3C8D376B1C72D60F0094D92D /* ContactUsViewController.swift */,
+				3C8D375B1C712C930094D92D /* TableViewCell.swift */,
 				3C8C294C1C6ABEBF006D31EB /* Main.storyboard */,
 				3C8C294F1C6ABEBF006D31EB /* Assets.xcassets */,
 				3C8C29511C6ABEBF006D31EB /* LaunchScreen.storyboard */,
+				3CC003DC1C73D4DC00F9CBAE /* home.png */,
+				3CC003D81C72E9E000F9CBAE /* 60758.png */,
+				3C8D37671C7297D10094D92D /* background-2.jpg */,
+				3C8D37651C7296EA0094D92D /* gray-background-2.jpg */,
+				3C8D37691C72992D0094D92D /* background-2.jpeg */,
+				3C8C299A1C70C4DC006D31EB /* 01.png */,
+				3C8D37631C72258E0094D92D /* email-icon.png */,
+				3C8D37591C7125E90094D92D /* UGM-default-user.png */,
 				3C8C29541C6ABEBF006D31EB /* Info.plist */,
 			);
 			path = "Indata RSS Data";
@@ -122,8 +161,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C8D375A1C7125E90094D92D /* UGM-default-user.png in Resources */,
+				3C8D37641C72258E0094D92D /* email-icon.png in Resources */,
+				3CC003DD1C73D4DC00F9CBAE /* home.png in Resources */,
+				3C8D37661C7296EA0094D92D /* gray-background-2.jpg in Resources */,
 				3C8C29531C6ABEBF006D31EB /* LaunchScreen.storyboard in Resources */,
+				3CC003D91C72E9E000F9CBAE /* 60758.png in Resources */,
 				3C8C29501C6ABEBF006D31EB /* Assets.xcassets in Resources */,
+				3C8C299B1C70C4DC006D31EB /* 01.png in Resources */,
+				3C8D37681C7297D10094D92D /* background-2.jpg in Resources */,
+				3C8D376A1C72992D0094D92D /* background-2.jpeg in Resources */,
 				3C8C294E1C6ABEBF006D31EB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,7 +182,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C8D37601C715E250094D92D /* UserDetailsViewController.swift in Sources */,
+				3C8D37621C7203CA0094D92D /* StringExtensionHTML.swift in Sources */,
+				3C8D376C1C72D60F0094D92D /* ContactUsViewController.swift in Sources */,
 				3C8C294B1C6ABEBF006D31EB /* ViewController.swift in Sources */,
+				3C8D375C1C712C930094D92D /* TableViewCell.swift in Sources */,
+				3C8C29991C70C27C006D31EB /* TableViewController.swift in Sources */,
 				3C8C29491C6ABEBF006D31EB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -284,6 +336,7 @@
 				3C8C29591C6ABEBF006D31EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
